@@ -1,2 +1,2 @@
-# digital-design (Full Adder)
+# Full Adder
 basic verilog projects (Vivado)
