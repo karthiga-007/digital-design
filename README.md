@@ -1,2 +1,2 @@
 # Full Adder Design
-Verilog implementation using Vivado
+Basic Verilog implementation using Vivado
