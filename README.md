@@ -1,2 +1,2 @@
-# Full Adder
-basic verilog projects (Vivado)
+# Full Adder Design
+Verilog implementation using Vivado
